@@ -22,7 +22,6 @@ class AngelList(object):
 		self.API_ENDPOINT = "api.angel.co/1/"
 		get_token = os.getenv("ANGEL_ACCESS_TOKEN")
 		""" Will try to get access token from your machine"""
-		# self.accesstoken = token if token else "cc65af5a8fd1f408c8d1ba0bf1c18e4d55c84278fc6575b4"
 		self.accesstoken = get_token if get_token else token
 		if not self.accesstoken:
 			print "Please pass in valid access token"
