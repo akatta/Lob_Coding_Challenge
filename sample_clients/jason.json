@@ -1,0 +1,8 @@
+{
+	"id":1004212,
+	"name":"Jason File",
+	"email":"json@json.com",
+	"interests":["Machine Learning", "Mobile", "User Experience"],
+	"areas":["Mountain View", "San Francisco", "Berkeley"],
+	"skills":["Machine Learning", "Web Development", "APIs"]
+}

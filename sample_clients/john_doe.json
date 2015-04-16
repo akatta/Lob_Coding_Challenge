@@ -1,0 +1,9 @@
+{
+	"id":220345,
+	"name":"John Doe",
+	"email":"john.doe@gmail.com",
+	"interests":["finance", "venture capital"],
+	"areas":["New York City"],
+	"skills":["Microsoft Office", "Economics", "Excel Modeling"]
+
+}
